@@ -57,6 +57,3 @@ We welcome contributions from the community! Feel free to open issues, submit pu
 Myriads is licensed under the [MIT License](LICENSE).
 
 Happy Analyzing! 🚀
-```
-
-Feel free to copy this template and paste it into your `README.md` file in your repository. Adjust the details like repository URLs, specific instructions, or additional information as needed for your project.
